@@ -1,10 +1,12 @@
 # mmdb-writer-perl
 
-Create MaxMind DB database files.
+Perl dependencies for writing MaxMind DB file format.
 
 # Decription
 
-This image contains the code necessary to write [MaxMind DB database files](http://maxmind.github.io/MaxMind-DB/). See [MaxMind::DB::Writer::Tree](https://metacpan.org/pod/MaxMind::DB::Writer::Tree) for API docs.
+This image contains the code necessary to write [MaxMind DB file](http://maxmind.github.io/MaxMind-DB/).
+
+See [MaxMind::DB::Writer::Tree](https://metacpan.org/pod/MaxMind::DB::Writer::Tree) for API docs.
 
 # Copyright & License
 
