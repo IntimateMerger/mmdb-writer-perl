@@ -1,4 +1,4 @@
-FROM perl:5.32-slim-buster
+FROM perl:5.40-slim-bookworm
 
 RUN set -ex; \
     apt-get update; \
